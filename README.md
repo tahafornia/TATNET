@@ -1,4 +1,5 @@
 TR:
+
 Türkçe QWERTY olan Windows bilgisayarlar için Kiril (Tatarca karakterlerde mevcut) karakterlerini Bilgisayarlarınıza yükleyebilirsiniz böylece Türkçe Q olan tuş takımınızda karşılığı olan Kiril karakterler entegre edilmiş olacak. Kısacası herhangi Türkçe Latin karaktere bastığınızda Kiril karşılığını verir.
 
 Nasıl yüklenir?
@@ -8,6 +9,7 @@ Klavye değiştirmek için Sistem varsayılanı Kısayol tuşlarını kullanabil
 
 
 EN:
+
 For Windows computers with Turkish QWERTY, you can install Cyrillic (Tatar characters are also available) characters on your computers, so that the corresponding Cyrillic characters will be integrated on your Turkish Q keypad. In short, when you press any Turkish-Latin character, it gives its Cyrillic equivalent.
 
 How to install?
@@ -17,6 +19,7 @@ To change the keyboard, you can use the System default Shortcut keys or change i
 
 
 RU:
+
 На компьютерах Windows с турецкой QWERTY вы можете установить на свои компьютеры символы кириллицы (также доступны татарские символы), чтобы соответствующие символы кириллицы были интегрированы в вашу турецкую Q клавиатуру. Короче говоря, когда вы нажимаете любой турецко-латинский символ, он дает его кириллический эквивалент.
 
 Как установить?
@@ -26,6 +29,7 @@ RU:
 
 
 TAT:
+
 Төрек QWERTY булган Windows компьютерлар өчен кирилл символларын(татар символлары да бар) үз компьютерларыгызга урнаштыра аласыз, шуңа күрә кирилл символлары сезнең төрек Q клавиатурасына интеграцияләнсен. Кыскасы, теләсә нинди төрек-латин символын басканда, аның кирилл эквивалентын бирә.
 
 Ничек урнаштырырга?
